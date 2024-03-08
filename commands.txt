@@ -1,0 +1,7 @@
+Git initiate
+Git status
+Git branch
+Git add
+Git rm --cached
+Git restore
+Git commit -m "comment"
